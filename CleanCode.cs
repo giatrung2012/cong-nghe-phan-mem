@@ -1,5 +1,4 @@
 using System;
-
 public class CleanCode {
     public static void Main() {
         int[] array = {
